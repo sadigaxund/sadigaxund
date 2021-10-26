@@ -9,7 +9,6 @@
 
 ## :speech_balloon: Socials
 
-<img src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/home.png" onmouseover="this.src='https://github.com/sadigaxund/GeneralRepo/blob/main/icons/gmail.svg'" onmouseout="this.src='https://github.com/sadigaxund/GeneralRepo/blob/main/icons/home.png'" /><br>
 [<img align="left" alt="mail" width="30px" onmouseover="this.width='35px'" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/gmail.svg" />][mail]
 [<img align="left" alt="linkedin" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Portfolio" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/home.png" />][website]
@@ -31,4 +30,4 @@
 [vid]: https://www.youtube.com/watch?v=Gdro5uM6_o8
 [epic]: https://fortnitetracker.com/profile/all/Sakhund
 [eolymp]: https://www.e-olymp.com/en/users/Sakhund4634
-[hackerrank]: https://www.e-olymp.com/en/users/Sakhund4634
+[hackerrank]: https://www.hackerrank.com/sakhund
