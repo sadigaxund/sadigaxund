@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/banner.png"></img>
+<img align="top" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/banner.png"></img>
 
 
 ## :mortar_board: I'm a Computer Scientist, Engineer and Data Analyst.
