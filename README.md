@@ -1,12 +1,14 @@
-### :wave: Hi there, I'm Sadig. 
+<img align="right" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/banner.png"></img>
+# Hi there, I'm Sadig :wave: 
+
 
 ## :mortar_board: I'm a Computer Scientist, Engineer and Data Analyst.
 - 🌱 I’m currently learning everything 🤣
-- 🔭 Check my latest video: [here][vid]!
-- 🥅 2022 Goals: Develop myself more in Data science field professionally.
+- 🔭 Check my latest youtube video: [here][vid]!
+- :trophy: 2022 Goals: Develop myself more in Data science field professionally.
 - ⚡ Fun fact: I love nature 🌳, art :art: and :video_game: games .
 
-## :iphone: Socials
+## :speech_balloon: Socials
 
 [<img align="left" alt="codeSTACKr | Email" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/gmail.svg" />][mail]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/linkedin.svg" />][linkedin]
