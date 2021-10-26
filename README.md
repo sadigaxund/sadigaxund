@@ -1,16 +1,20 @@
-### Hi there 👋
+### :wave: Hi there, I'm Sadig. 
 
-<!--
-**sadigaxund/sadigaxund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :mortar_board: I'm a Computer Scientist, Engineer and Data Analyst.
 
-Here are some ideas to get you started:
+## :iphone: Socials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/gmail.svg" />][mail]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/home.png" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/twitter.svg" />][twitter]
+<br>
+
+[website]: https://sakhund.netlify.app
+[twitter]: https://twitter.com/sadigaxund
+[youtube]: https://www.youtube.com/channel/UC2gQPeLhl99dIn_xDaWeVQA
+[linkedin]: https://www.linkedin.com/in/sakhund
+[mail]: mailto:sadigaxund@gmail.com?subject=Github
+[license]: /LICENSE
+[profile]: https://github.com/sadigaxund
