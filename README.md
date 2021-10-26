@@ -14,9 +14,9 @@
 [<img align="left" alt="Portfolio" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/home.png" />][website]
 [<img align="left" alt="YouTube" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/youtube.svg" />][youtube]
 [<img align="left" alt="twitter" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/twitter.svg" />][twitter]
-[<img align="left" alt="epic" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/epic.svg" />][epic]
 [<img align="left" alt="eolymp" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/eolymp.ico" />][eolymp]
 [<img align="left" alt="hackerrank" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/hackerrank.ico" />][hackerrank]
+[<img align="left" alt="epic" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/epic.svg" />][epic]
 
 <br>
 
