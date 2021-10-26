@@ -1,6 +1,10 @@
 ### :wave: Hi there, I'm Sadig. 
 
 ## :mortar_board: I'm a Computer Scientist, Engineer and Data Analyst.
+- 🌱 I’m currently learning everything 🤣
+- 🔭 Check my latest video: [here][vid]!
+- 🥅 2022 Goals: Develop myself more in Data science field professionally.
+- ⚡ Fun fact: I love nature 🌳, art :art: and :video_game: games .
 
 ## :iphone: Socials
 
@@ -18,3 +22,4 @@
 [mail]: mailto:sadigaxund@gmail.com?subject=Github
 [license]: /LICENSE
 [profile]: https://github.com/sadigaxund
+[vid]: https://www.youtube.com/watch?v=Gdro5uM6_o8
