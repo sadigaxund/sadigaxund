@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🔭 Check my latest youtube video: [here][vid]!
 - :trophy: 2022 Goals: Develop myself more in Data science field professionally.
-- ⚡ Fun fact: I love nature 🌳, art :art: and :video_game: games .
+- ⚡ Fun fact: I love coding 💻, art :art: and :video_game: games.
 
 ## :speech_balloon: Socials
 
