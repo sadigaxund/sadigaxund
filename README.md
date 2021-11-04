@@ -3,6 +3,7 @@
 [<img align="left" alt="epic" width="25px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/stackoverflow.ico" />][stackoverflow]
 [<img align="left" alt="reddit" width="25px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/reddit.ico" />][reddit]
 [<img align="left" alt="twitter" width="25px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/twitter.png" />][twitter]
+[<img align="left" alt="twitter" width="25px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/telegram.svg" />][telegram]
 [<img align="left" alt="YouTube" width="25px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/youtube.png" />][youtube]
 [<img align="left" alt="hackerrank" width="25px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/hackerrank.ico" />][hackerrank]
 [<img align="left" alt="epic" width="25px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/epic.svg" />][epic]
@@ -46,5 +47,5 @@ At the start of my career and the academic path, I was obsessed with Technology,
 [hackerrank]: https://www.hackerrank.com/sakhund
 [stackoverflow]: https://stackoverflow.com/users/13595120/sadig-akhund
 [reddit]: https://www.reddit.com/user/Sakhund
-
+[telegram]: https://t.me/sakhund
 
