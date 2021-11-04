@@ -31,7 +31,7 @@ At the start of my career and the academic path, I was obsessed with Technology,
 
 
 ## Contributions
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 
 [website]: https://sakhund.netlify.app
