@@ -22,8 +22,8 @@
 
 At the start of my career and the academic path, I was obsessed with Technology, Engineering, and especially Robotics. I always thought my dream was to be an electrical and a computer engineer for a small-scaled tech company, working on an invention, soldering some lead, and working on my evil-genius side-project to conquer the world. It seemed perfect goal given my BSc in Computer Engineering. I slowly drifted towards the world of data and even started to pursue my MSc degree. And that's when the story starts; the catalyst I was missing reacted the instant I enrolled in my first professional certificate course by Google. Since then, my thirst for knowledge has not stopped.
 
-- 🌱 &nbsp;&nbsp;&nbsp;&nbsp; I’m currently learning everything 😂
-- <img align="left" alt="YouTube" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/youtube.png"/> Check my latest youtube video: [here][vid]!
+- 🌱 &nbsp;&nbsp;&nbsp;&nbsp; I’m currently learning everything : )
+- <img align="left" alt="YouTube" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/youtube.png"/> Check my latest youtube [video][vid]!
 - 🏆 &nbsp;&nbsp;&nbsp;&nbsp; 2022 Goals: Develop myself more in Data science field professionally
 - ❤️ &nbsp;&nbsp;&nbsp;&nbsp; Fun fact: I love coding 💻, art :art: and :video_game: games
 
