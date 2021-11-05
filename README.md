@@ -38,7 +38,7 @@ At the start of my career and the academic path, I was obsessed with Technology,
 [twitter]: https://twitter.com/sadigaxund
 [youtube]: https://www.youtube.com/channel/UC2gQPeLhl99dIn_xDaWeVQA
 [linkedin]: https://www.linkedin.com/in/sakhund
-[mail]: mailto:sadigaxund@gmail.com?subject=Github
+[mail]: mailto:sadigaxund@hotmail.com?subject=Github
 [license]: /LICENSE
 [profile]: https://github.com/sadigaxund
 [vid]: https://www.youtube.com/watch?v=Gdro5uM6_o8
