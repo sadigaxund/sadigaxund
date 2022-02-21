@@ -30,7 +30,7 @@ At the start of my career and the academic path, I was obsessed with Technology,
 
 
 
-## Contributions
+## Activity
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 
