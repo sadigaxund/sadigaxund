@@ -1,3 +1,12 @@
+### Hi, I'm a Computer Scientist, Engineer and Data Analyst <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<-- Under Construction -->
+
+
+## Activity
+![](./profile-3d-contrib/profile-season-animate.svg)
+
+## Socials
 [<img align="left" alt="mail" width="25px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/google.svg" />][mail]
 [<img align="left" alt="linkedin" width="25px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="epic" width="25px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/stackoverflow.ico" />][stackoverflow]
@@ -10,28 +19,6 @@
 [<img align="left" alt="eolymp" width="25px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/eolymp.ico" />][eolymp]
 [<img align="left" alt="Portfolio" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/portfolio.svg" />][website]
 [<img align="left" alt="View Count" width="150px" src="https://komarev.com/ghpvc/?username=sadigaxund&color=blueviolet&style=flat-square&label=Profile+Views" />][profile]  
-
-  
-
----
-
-<img align="top" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/banner.png"></img>
-
-
-### Hi, I'm a Computer Scientist, Engineer and Data Analyst <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-At the start of my career and the academic path, I was obsessed with Technology, Engineering, and especially Robotics. I always thought my dream was to be an electrical and a computer engineer for a small-scaled tech company, working on an invention, soldering some lead, and working on my evil-genius side-project to conquer the world. It seemed perfect goal given my BSc in Computer Engineering. I slowly drifted towards the world of data and even started to pursue my MSc degree. And that's when the story starts; the catalyst I was missing reacted the instant I enrolled in my first professional certificate course by Google. Since then, my thirst for knowledge has not stopped.
-
-- 🌱 &nbsp;&nbsp;&nbsp;&nbsp; I’m currently learning everything : )
-- <img align="left" alt="YouTube" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/youtube.png"/> Check my latest youtube [video][vid]!
-- 🏆 &nbsp;&nbsp;&nbsp;&nbsp; 2022 Goals: Develop myself more in Data science field professionally
-- ❤️ &nbsp;&nbsp;&nbsp;&nbsp; Fun fact: I love coding 💻, art :art: and :video_game: games
-
-
-
-
-## Activity
-![](./profile-3d-contrib/profile-season-animate.svg)
 
 
 [website]: https://sakhund.netlify.app
