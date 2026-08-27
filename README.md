@@ -76,7 +76,7 @@ Data Engineer with 3+ years across platform and delivery. Integrated Apache Spar
   <a href="mailto:sadigaxund@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="resume.sakhund.cc" title="Download my latest resume (PDF)">
+  <a href="https://resume.sakhund.cc" title="Download my latest resume (PDF)">
     <img src="https://img.icons8.com/color/48/resume.png" alt="Resume" width="40" />
   </a>
 </p>
