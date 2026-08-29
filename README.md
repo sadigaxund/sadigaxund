@@ -10,11 +10,11 @@ Data Engineer with 3+ years across platform and delivery. Integrated Apache Spar
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sadigaxund&cache_seconds=7200&show_icons=true&theme=tokyonight&border_radius=10" alt="sadigaxund's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sadigaxund&cache_seconds=7200&show_icons=true&theme=tokyonight&border_radius=10" alt="__" height="165" />
   <img src="https://streak-stats.demolab.com/?user=sadigaxund&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="sadigaxund's GitHub Streak" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadigaxund&theme=tokyonight&radius=10" alt="sadigaxund's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadigaxund&theme=tokyonight&radius=10" alt="__" width="100%" />
 </p>
 
 
@@ -65,8 +65,7 @@ Data Engineer with 3+ years across platform and delivery. Integrated Apache Spar
   </a>
 </p>
 
-## 🔗 Connect with Me
-<p align="center">
+## 🔗 Contact Me
   <a href="https://linkedin.com/in/sakhund">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
@@ -79,13 +78,3 @@ Data Engineer with 3+ years across platform and delivery. Integrated Apache Spar
   <a href="https://resume.sakhund.cc" title="Download my latest resume (PDF)">
     <img src="https://img.icons8.com/color/48/resume.png" alt="Resume" width="40" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
-</div>
-
